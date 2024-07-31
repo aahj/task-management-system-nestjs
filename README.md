@@ -49,6 +49,14 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Debug the app
+
+```bash
+$ npm run start:debug
+# and attach your debugger created in launch.json
+
+```
+
 ## Test
 
 ```bash
